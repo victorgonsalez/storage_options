@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DojoApp</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="products">Produtos</string>
+    <string name="wrong_data">Usuário ou senha incorretos!</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="hello">Olá, %s</string>
+    <string name="delete_all_products">Delete All Products</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_status">Product Status</string>
+</resources>
